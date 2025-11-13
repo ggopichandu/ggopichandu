@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopichand Gumma</h1>
-<h3 align="left">AWS DevOps Engineer @ Tech Mahindra</h3>
+<h2 align="left">AWS DevOps Engineer @ Tech Mahindra</h2>
 <p align="left">🚀 DevOps • SRE • Cloud Engineer | AWS  | CI/CD | Kubernetes | Terraform</p>
 
 ###
