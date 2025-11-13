@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Gopichand Gumma</h1>
 <h2 align="left">AWS DevOps Engineer @ Tech Mahindra</h2>
 <h3 align="left">🚀 DevOps • SRE • Cloud Engineer | AWS  | CI/CD | Kubernetes | Terraform</h3>
@@ -24,20 +30,20 @@
 - **Security & Code Scanning:** SonarQube  
 - **Artifact Management:** Nexus, JFrog Artifactory  
 - **Scripting:** Bash, Shell, Python  
-- **Monitoring & Observability:** Prometheus, Grafana, CloudWatch, Splunk, Dynatrace  
+- **Monitoring & Observability:** Prometheus, Grafana, CloudWatch  
 
 ---
 
 # 💼 What I Do
 
-- 🛠️ Build and manage infrastructure on **AWS & Azure** using **Terraform** for repeatable, secure provisioning  
-- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** and **Jules**, ensuring efficient internal deployments  
-- 🚀 Design high-performance **CI/CD pipelines** using **Azure DevOps, GitHub Actions, Jenkins, Jules**  
+- 🛠️ Build and manage infrastructure on **AWS** using **Terraform** for repeatable, secure provisioning  
+- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** ensuring efficient internal deployments  
+- 🚀 Design high-performance **CI/CD pipelines** using **GitHub Actions, Jenkins,**  
 - 📃️ Manage codebases using **GitHub & Bitbucket** for smooth collaboration and release processes  
 - 🤖 Automate infrastructure and ops tasks using **Linux, Shell scripting, and Python**  
 - 🧪 Enforce code quality with **SonarQube** and manage artifacts with **Nexus & JFrog Artifactory**  
-- 🔐 Secure cloud environments using **IAM, RBAC, Azure Key Vault** for compliance and access governance  
-- 📈 Ensure observability with **Splunk, Dynatrace, Prometheus, Grafana, CloudWatch**  
+- 🔐 Secure cloud environments using **IAM, RBAC** for compliance and access governance  
+- 📈 Ensure observability with **Prometheus, Grafana, CloudWatch**  
 
 ---
 
