@@ -7,14 +7,13 @@
 ### AWS DevOps Engineer @ Tech Mahindra
 🚀 DevOps • SRE • Cloud Engineer | AWS  | CI/CD | Kubernetes | Terraform
 
-###
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopichand-gumma) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gopichandgumma9@gmail.com)
 
-###
+---
 
-<p align="left">I'm a passionate AWS DevOps Engineer with over 4 years of experience in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS.</p>
+I'm a passionate **AWS DevOps Engineer** with over **4 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS.
 
 ---
 
