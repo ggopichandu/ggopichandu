@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="c:\Users\Gopichandg\OneDrive\Desktop\Purple Minimalist Brush Personal LinkedIn Banner.png" alt="Banner" width="800"/>
+  <img src="https://github.com/ggopichandu/ggopichandu/blob/98d3f4bb9c98e9792fbacbf2bcaff6e3c49c3424/banner.png" alt="Banner" width="800"/>
 </div>
 
 # Hi 👋, I'm Gopichand Gumma
