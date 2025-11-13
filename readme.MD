@@ -1,30 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Gopichand Gumma</h1>
-<h3 align="center">AWS DevOps Engineer @ Tech Mahindra</h3>
+<h3 align="left">AWS DevOps Engineer @ Tech Mahindra</h3>
 
 ###
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopichand-gumma) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gopichandgumma9@gmail.com)
 
 <h3 align="left">I'm a passionate AWS DevOps Engineer with over 4 years of experience in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS and Azure.</h3>
 
----
-
-# 💼 What I Do
-
-- 🛠️ Build and manage infrastructure on **AWS & Azure** using **Terraform** for repeatable, secure provisioning  
-- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** and **Jules**, ensuring efficient internal deployments  
-- 🚀 Design high-performance **CI/CD pipelines** using **Azure DevOps, GitHub Actions, Jenkins, Jules**  
-- 📃️ Manage codebases using **GitHub & Bitbucket** for smooth collaboration and release processes  
-- 🤖 Automate infrastructure and ops tasks using **Linux, Shell scripting, and Python**  
-- 🧪 Enforce code quality with **SonarQube** and manage artifacts with **Nexus & JFrog Artifactory**  
-- 🔐 Secure cloud environments using **IAM, RBAC, Azure Key Vault** for compliance and access governance  
-- 📈 Ensure observability with **Splunk, Dynatrace, Prometheus, Grafana, CloudWatch**  
+###
 
 ---
-🧰 Tech Stack
+# 🧰 Tech Stack
 
 Cloud: AWS, Azure, GAIA Cloud
 OS: Linux, Windows
@@ -36,6 +24,18 @@ Security & Scanning: SonarQube, Snyk
 Arifactory: Nexus, JFrog
 Scripting: Bash, Shell, Python
 Monitoring: Splunk, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor
+
+---
+# 💼 What I Do
+
+- 🛠️ Build and manage infrastructure on **AWS  using **Terraform** for repeatable, secure provisioning  
+- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** and **Jules**, ensuring efficient internal deployments  
+- 🚀 Design high-performance **CI/CD pipelines** using **Azure DevOps, GitHub Actions, Jenkins, Jules**  
+- 📃️ Manage codebases using **GitHub & Bitbucket** for smooth collaboration and release processes  
+- 🤖 Automate infrastructure and ops tasks using **Linux, Shell scripting, and Python**  
+- 🧪 Enforce code quality with **SonarQube** and manage artifacts with **Nexus & JFrog Artifactory**  
+- 🔐 Secure cloud environments using **IAM, RBAC, Azure Key Vault** for compliance and access governance  
+- 📈 Ensure observability with **Splunk, Dynatrace, Prometheus, Grafana, CloudWatch**  
 
 ---
 
