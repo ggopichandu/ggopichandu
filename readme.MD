@@ -11,7 +11,7 @@
 
 ---
 
-# 💻 Tech Stack (Bullet Points)
+# 💻 Tech Stack
 
 - **Cloud:** AWS, Azure  
 - **Operating Systems:** Linux, Windows  
