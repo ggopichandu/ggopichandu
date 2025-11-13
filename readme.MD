@@ -2,9 +2,10 @@
   <img src="c:\Users\Gopichandg\OneDrive\Desktop\Purple Minimalist Brush Personal LinkedIn Banner.png" alt="Banner" width="800"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Gopichand Gumma</h1>
-<h2 align="left">AWS DevOps Engineer @ Tech Mahindra</h2>
-<h3 align="left">🚀 DevOps • SRE • Cloud Engineer | AWS  | CI/CD | Kubernetes | Terraform</h3>
+# Hi 👋, I'm Gopichand Gumma
+
+### AWS DevOps Engineer @ Tech Mahindra
+🚀 DevOps • SRE • Cloud Engineer | AWS  | CI/CD | Kubernetes | Terraform
 
 ###
 
