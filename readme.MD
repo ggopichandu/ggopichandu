@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gopichand Gumma</h1>
 <h3 align="left">AWS DevOps Engineer @ Tech Mahindra</h3>
+<p align="center">🚀 DevOps • SRE • Cloud Engineer | AWS  | CI/CD | Kubernetes | Terraform</p>
 
 ###
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopichand-gumma) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gopichandgumma9@gmail.com)
 
-<h4 align="left">I'm a passionate AWS DevOps Engineer with over 4 years of experience in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS and Azure.</h4>
+<p align="left">I'm a passionate AWS DevOps Engineer with over 4 years of experience in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS and Azure.</p>
 
 ---
 
