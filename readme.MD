@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" />
-</p>
-
-
+<div align="center">
+  <img src="c:\Users\Gopichandg\OneDrive\Desktop\Purple Minimalist Brush Personal LinkedIn Banner.png" alt="Banner" width="800"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Gopichand Gumma</h1>
 <h2 align="left">AWS DevOps Engineer @ Tech Mahindra</h2>
