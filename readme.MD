@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">Hi 👋, I'm Gopichand Gumma</h1>
 <h3 align="center">AWS DevOps Engineer @ Tech Mahindra</h3>
 
@@ -24,52 +24,18 @@
 - 📈 Ensure observability with **Splunk, Dynatrace, Prometheus, Grafana, CloudWatch**  
 
 ---
+🧰 Tech Stack
 
-# 💻 Tech Stack
-
-### ☁️ Cloud
-- AWS  
-- Azure
-
-### 🖥️ Operating Systems  
-- Linux  
-- Windows
-
-### 🚀 CI/CD Tools  
-- Azure DevOps  
-- GitHub Actions  
-- Jenkins  
-
-### 🔧 Source Code Management  
-- GitHub  
-- Bitbucket  
-
-### 🏗️ Infrastructure as Code  
-- Terraform  
-- CloudFormation  
-
-### 🐳 Containers & Orchestration  
-- Docker  
-- Kubernetes  
-
-### 🔍 Security & Scanning  
-- SonarQube  
-
-### 📦 Artifact Management  
-- Nexus  
-- JFrog Artifactory  
-
-### 📜 Scripting & Automation  
-- Bash  
-- Shell  
-- Python  
-
-### 📊 Monitoring & Observability  
-- Prometheus  
-- Grafana  
-- CloudWatch  
-- Splunk  
-- Dynatrace  
+Cloud: AWS, Azure, GAIA Cloud
+OS: Linux, Windows
+CI/CD: Azure DevOps, GitHub Actions, Jenkins, Jules
+SCM: GitHub, Bitbucket
+IaC: Terraform. Cloudformation
+Containers: Docker, Kubernetes
+Security & Scanning: SonarQube, Snyk
+Arifactory: Nexus, JFrog
+Scripting: Bash, Shell, Python
+Monitoring: Splunk, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor
 
 ---
 
