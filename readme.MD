@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopichand Gumma</h1>
-<h3 align="center">AWS DevOps Engineer @ Tech Mahindra</h3>
+<h3 align="left">AWS DevOps Engineer @ Tech Mahindra</h3>
 
 ###
 
