@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gopichand Gumma</h1>
 <h3 align="center">A passionate AWS DevOps Engineer from India</h3>
 
-<img align="right" alt="DevOps width="400" src="https://dribbble.com/shots/4739771-GitLab-Auto-DevOps">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggopichandu&label=Profile%20views&color=0e75b6&style=flat" alt="ggopichandu" /> </p>
 
@@ -26,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggopichandu&show_icons=true&locale=en" alt="ggopichandu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggopichandu&" alt="ggopichandu" /></p>
+
