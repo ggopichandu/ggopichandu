@@ -14,8 +14,10 @@
 ---
 # 🧰 Tech Stack
 
-Cloud: AWS, Azure, GAIA Cloud
+Cloud: AWS
+
 OS: Linux, Windows
+
 CI/CD: Azure DevOps, GitHub Actions, Jenkins, Jules
 SCM: GitHub, Bitbucket
 IaC: Terraform. Cloudformation
