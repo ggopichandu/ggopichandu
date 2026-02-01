@@ -13,15 +13,15 @@
 
 ---
 
-I'm a passionate **AWS DevOps Engineer** with over **4 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS.
+I'm a passionate **AWS DevOps Engineer** with over **4.5 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS.
 
 ---
 
 # 💻 Tech Stack
 
-- **Cloud:** AWS, Azure  
+- **Cloud:** AWS  
 - **Operating Systems:** Linux, Windows  
-- **CI/CD:** Azure DevOps, GitHub Actions, Jenkins  
+- **CI/CD:** AWS DevOps, GitHub Actions, Jenkins  
 - **Source Code Management:** GitHub, Bitbucket  
 - **Infrastructure as Code:** Terraform, CloudFormation  
 - **Containers & Orchestration:** Docker, Kubernetes  
