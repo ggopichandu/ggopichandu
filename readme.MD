@@ -35,7 +35,7 @@ I'm a passionate **AWS DevOps Engineer** with over **4.5 years of experience** i
 # 💼 What I Do
 
 - 🛠️ Build and manage infrastructure on **AWS** using **Terraform** for repeatable, secure provisioning  
-- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** ensuring efficient internal deployments  
+- ☁️ Led provisioning, upgrades, and lifecycle management of Amazon EKS clusters using Terraform (IaC),   automating Kubernetes version upgrades, managed node groups, and cluster add-ons to ensure high availability, scalability, and minimal downtime  
 - 🚀 Design high-performance **CI/CD pipelines** using **GitHub Actions, Jenkins,**  
 - 📃️ Manage codebases using **GitHub & Bitbucket** for smooth collaboration and release processes  
 - 🤖 Automate infrastructure and ops tasks using **Linux, Shell scripting, and Python**  
